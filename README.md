@@ -34,7 +34,13 @@
 
 8. ###### Vector Comparison Overloading= This is a Python program that compares two vectors based on their magnitudes using operator overloading.
 
+9. ###### Number Guessing Game= This is a simple Python number guessing game where the user tries to guess a randomly generated number between 1 and 100.
 
+10. ###### Simple Calculator= This is a Python program that performs basic arithmetic operations based on user input. It supports both two-number operations and single-number operations like square root.
+
+11. ###### Basic quiz Game= This is a Python quiz game that asks five multiple-choice questions related to Python programming.
+
+12. ###### ROck Paper Scissors= This is a simple Python game where the user plays \*\*Rock, Paper, Scissors\*\* against the computer.
 
 
 
