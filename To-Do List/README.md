@@ -1,6 +1,5 @@
 ## \#To-Do List Application
 
-## 
 
 ###### A simple terminal-based To-Do List  that lets users add, view, delete, and complete tasks with colored status indicators.
 
