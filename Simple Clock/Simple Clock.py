@@ -87,7 +87,7 @@ def clock():
 
             res= (input("Set a time to set the Alarm for (HH:MM): ").strip())
 
-            print(f"{Fore.GREEN}Alarm set for {res}")
+            print(f"{Fore.GREEN}{Style.BRIGHT}Alarm set for {res}")
 
             while True:
                 if res==time.strftime("%H:%M"):
