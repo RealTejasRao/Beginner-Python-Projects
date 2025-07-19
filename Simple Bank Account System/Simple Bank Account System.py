@@ -232,6 +232,7 @@ class Account:
 
                     if self.bal>0:
                         print(f"{Fore.RED}{Style.BRIGHT}Error in deleting account. Account Balance must be Zero.")
+                        break
 
                     if self.bal==0:
                         print(f"{Fore.BLUE}{Style.BRIGHT}{self.user}!{Style.RESET_ALL} A/c No. {Fore.BLUE}{Style.BRIGHT}{self.num2}.")
