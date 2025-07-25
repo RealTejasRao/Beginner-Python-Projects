@@ -42,6 +42,16 @@
 
 12. ###### ROck Paper Scissors= This is a simple Python game where the user plays \*\*Rock, Paper, Scissors\*\* against the computer.
 
+13. ###### Random Password Generator= This is a basic Python script that generates a random password using letters, digits, and special characters. It uses Python's built-in `random` and `string` modules to generate secure, unpredictable passwords.
+
+14. ###### Simple CLock= This is a multi-functional Python script that lets users perform time-based tasks like viewing the current time, using a stopwatch, setting a countdown timer, or scheduling an alarm. It uses modules like `time`, `keyboard`, `colorama`, `playsound`, and `threading` for a responsive and colorful experience.
+
+15. ###### To-Do List= A simple terminal-based To-Do List  that lets users add, view, delete, and complete tasks with colored status indicators.
+
+16. ###### Simple Bank Account SYstem= This is an interactive Python script that simulates a basic banking system with user signup, login authentication, and transaction features. It uses OOP (`class Account`) and libraries like `colorama`, `playsound`, and `threading` for sound effects and enhanced user interaction.
+
+17. ###### Student Management System= A beginner-friendly Python project that allows you to manage student records using Object-Oriented Programming (OOP). This program runs in the terminal and provides an interactive menu for various student management tasks.
+
 
 
 ***More projects coming soon as I continue learning!***
