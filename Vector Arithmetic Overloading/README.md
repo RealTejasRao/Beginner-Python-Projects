@@ -24,13 +24,13 @@
 
 ###### 2\. Operator overloading methods are implemented:
 
-######    - `\\\_\\\_add\\\_\\\_` for vector addition
+######    - `__add__` for vector addition
 
-######    - `\\\_\\\_sub\\\_\\\_` for vector subtraction
+######    - `__sub__` for vector subtraction
 
-######    - `\\\_\\\_mul\\\_\\\_` for element-wise multiplication
+######    - `__mul__` for element-wise multiplication
 
-######    - `\\\_\\\_truediv\\\_\\\_` for element-wise division
+######    - `__truediv__` for element-wise division
 
 
 
@@ -38,7 +38,7 @@
 
 
 
-###### 4\. The `\\\_\\\_repr\\\_\\\_` method formats vector output for readability
+###### 4\. The `__repr__` method formats vector output for readability
 
 
 
