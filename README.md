@@ -52,6 +52,10 @@
 
 17. ###### Student Management System= A beginner-friendly Python project that allows you to manage student records using Object-Oriented Programming (OOP). This program runs in the terminal and provides an interactive menu for various student management tasks.
 
+18. ###### Basic Contact List= A Python-based contact management application that allows users to add, view, edit, delete, and manage their personal contacts with a user-friendly command-line interface.
+
+19. ###### QR Code Generator= Generates a qr code using the qr code and pillow module.
+
 
 
 ***More projects coming soon as I continue learning!***

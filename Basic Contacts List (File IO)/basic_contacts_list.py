@@ -277,6 +277,7 @@ class Contact:
         print(f"{Style.BRIGHT}{Fore.CYAN}Options:")
         print(f"  Add    - Add a new contact")
         print(f"  View   - View all contacts")
+        print(f"  Edit   - Edit an existing contact")
         print(f"  Delete - Remove a contact by phone number")
         print(f"  DelAll - Delete all contacts")
         print(f"  Exit   - Exit the program")
